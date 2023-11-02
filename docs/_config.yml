@@ -21,7 +21,8 @@
 title: John Handley
 email: jwhandley17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm an economist/political scientist with a passion for data and programming. I'm currently an economist at Ofcom, but this site contains my personal projects only.
+  I'm an economist/political scientist with a passion for data and programming.
+  I'm currently an economist at Ofcom, but this site contains my personal projects only.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jwhandley17
